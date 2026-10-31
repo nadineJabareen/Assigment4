@@ -1,0 +1,27 @@
+1. yoda:
+2.C3PO:
+2.C3PO:
+3.AnakinSkywalker:file 3 has 6 line showing 3 
+3.AnakinSkywalker:
+3.AnakinSkywalker:
+4.R2D2:( file 4 has 9 lines showing 4 )
+4.R2D2:
+4.R2D2:
+4.R2D2:
+5.Rey Skywalker :( file 5 has 2 lines)
+5.Rey Skywalker :
+6. Darth Vader: (file 6 only has one line)
+7.Han Solo:( file 7 only has 3 lines)
+7.Han Solo:
+7.han Solo:
+9. Obi Wan : (skipping file 8 its empty, 9 has 11 showing all 9 )
+9. Obi Wan :
+9. Obi Wan :
+9. Obi Wan:
+9. Obi Wan :
+9. Obi Wan:
+9. Obi Wan :
+9. Obi Wan:
+9. Obi Wan :
+10. JAr JAr 
+10.no body likes jar jar ill leave it at 2 instead of 10 
